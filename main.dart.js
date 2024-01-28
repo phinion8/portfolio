@@ -76501,33 +76501,32 @@ ae(){return new A.P8(B.k)}}
 A.P8.prototype={
 G(a){var s=this.Xy()
 return A.p8(this.Xl(),s)},
-Xy(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=f.c
-d.toString
+Xy(){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=g.c
+e.toString
 s=t.w
-r=A.bt(d,e,s).w.a.a
-d=f.c
-d.toString
-A.bt(d,e,s).toString
-s=r/1.2
-s=A.b6(e,A.i9("assets/images/3d_illustration.png",e,e,e),B.j,e,e,e,e,s,e,e,e,e,s)
-d=A.bV(e,e,e,e,e,e,e,e,e,e,e,r/12,e,e,B.an,e,1.5,!0,e,e,e,e,e,e,e,e)
-q=A.a([B.cF,B.rK],t.t_)
-p=A.aa(e,16,e)
-o=A.ar_(A.a([A.pA("Professional Mobile App Developer",B.a7,A.bV(e,e,B.a5,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e)),A.pA("Professional Android App Developer",B.a7,A.bV(e,e,B.a5,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e)),A.pA("Professional Flutter Developer",B.a7,A.bV(e,e,B.a5,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e)),A.pA("Professional App UI/UX Designer",B.a7,A.bV(e,e,B.a5,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e))],t.u6))
-n=A.aa(e,16,e)
-m=A.ao("Working on this field for more than 2 years and have worked on 20+ projects. Recently worked as an Android Development Intern at Chatwise UK Limited",e,A.bV(e,e,B.aM,e,e,e,e,e,e,e,e,14,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),B.a7)
-l=A.aa(e,30,e)
-k=f.c
-k.toString
-k=A.ao("Hire me",e,A.F(k).p3.y,e)
-j=t.Ni
-k=A.ha(A.cZ(B.ml,e,e,e),k,new A.af7(),A.di(e,e,e,e,e,e,e,e,e,e,e,e,e,new A.aA(new A.X(28,16,28,16),j),e,new A.aA(new A.bJ(A.cl(100),B.q),t.fj),e,e,e,e,e,e))
-i=A.aa(e,e,16)
-h=f.c
-h.toString
-h=A.ao("Resume",e,A.F(h).p3.y,e)
-g=t.p
-return A.b6(e,A.bO(A.a([s,new A.x0("Hi!\ud83d\udc4b\nI'm Priyanshu Verma",d,new A.xB(B.cv,B.d5,B.av,q,e,e),B.a7,e),p,o,n,m,l,A.c_(A.a([k,i,A.auX(A.cZ(B.eP,e,e,e),h,new A.af8(),A.di(e,e,e,e,e,e,e,e,e,e,e,e,e,new A.aA(new A.X(28,16,28,16),j),e,e,e,e,e,e,e,e))],g),B.r,B.ak,B.o),A.aa(e,24,e),A.c_(A.a([new A.hW("assets/images/github.png",e),new A.hW("assets/images/google-play.png",e),new A.hW("assets/images/linkedin.png",e),new A.hW("assets/images/youtube.png",e)],g),B.r,B.ak,B.o)],g),B.r,B.w,B.o),B.j,e,e,e,e,e,new A.X(24,20,24,20),e,e,e,e)},
+e=A.bt(e,f,s).w
+r=g.c
+r.toString
+A.bt(r,f,s).toString
+s=A.b6(f,A.i9("assets/images/3d_illustration.png",f,f,f),B.j,f,f,f,f,200,f,f,f,f,200)
+e=A.bV(f,f,f,f,f,f,f,f,f,f,f,e.a.a/12,f,f,B.an,f,1.5,!0,f,f,f,f,f,f,f,f)
+r=A.a([B.cF,B.rK],t.t_)
+q=A.aa(f,16,f)
+p=A.ar_(A.a([A.pA("Professional Mobile App Developer",B.a7,A.bV(f,f,B.a5,f,f,f,f,f,f,f,f,16,f,f,f,f,f,!0,f,f,f,f,f,f,f,f)),A.pA("Professional Android App Developer",B.a7,A.bV(f,f,B.a5,f,f,f,f,f,f,f,f,16,f,f,f,f,f,!0,f,f,f,f,f,f,f,f)),A.pA("Professional Flutter Developer",B.a7,A.bV(f,f,B.a5,f,f,f,f,f,f,f,f,16,f,f,f,f,f,!0,f,f,f,f,f,f,f,f)),A.pA("Professional App UI/UX Designer",B.a7,A.bV(f,f,B.a5,f,f,f,f,f,f,f,f,16,f,f,f,f,f,!0,f,f,f,f,f,f,f,f))],t.u6))
+o=A.aa(f,16,f)
+n=A.ao("Working on this field for more than 2 years and have worked on 20+ projects. Recently worked as an Android Development Intern at Chatwise UK Limited",f,A.bV(f,f,B.aM,f,f,f,f,f,f,f,f,14,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),B.a7)
+m=A.aa(f,30,f)
+l=g.c
+l.toString
+l=A.ao("Hire me",f,A.F(l).p3.y,f)
+k=t.Ni
+l=A.ha(A.cZ(B.ml,f,f,f),l,new A.af7(),A.di(f,f,f,f,f,f,f,f,f,f,f,f,f,new A.aA(new A.X(28,16,28,16),k),f,new A.aA(new A.bJ(A.cl(100),B.q),t.fj),f,f,f,f,f,f))
+j=A.aa(f,f,16)
+i=g.c
+i.toString
+i=A.ao("Resume",f,A.F(i).p3.y,f)
+h=t.p
+return A.b6(f,A.bO(A.a([s,new A.x0("Hi!\ud83d\udc4b I'm Priyanshu Verma",e,new A.xB(B.cv,B.d5,B.av,r,f,f),B.a7,f),q,p,o,n,m,A.c_(A.a([l,j,A.auX(A.cZ(B.eP,f,f,f),i,new A.af8(),A.di(f,f,f,f,f,f,f,f,f,f,f,f,f,new A.aA(new A.X(28,16,28,16),k),f,f,f,f,f,f,f,f))],h),B.r,B.ak,B.o),A.aa(f,24,f),A.c_(A.a([new A.hW("assets/images/github.png",f),new A.hW("assets/images/google-play.png",f),new A.hW("assets/images/linkedin.png",f),new A.hW("assets/images/youtube.png",f)],h),B.r,B.ak,B.o)],h),B.r,B.w,B.o),B.j,f,f,f,f,f,new A.X(24,0,24,0),f,f,f,f)},
 Xl(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=e.c
 c.toString
 s=t.w
